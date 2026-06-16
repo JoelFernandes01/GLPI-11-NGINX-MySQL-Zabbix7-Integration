@@ -6,8 +6,8 @@
 |------------|--------------|
 | 🖥️ **GLPI** | [glpi.md](GLPI/glpi.md) |
 | 📊 **Zabbix** | [zabbix.md](Zabbix/zabbix.md) |
-| 📈 **Grafana** | [grafana.md](Grafana/grafana.md) |
-| 🔗 **Integração** | [integracao.md](Integracao/integracao.md) |
+| 📈 **Grafana** | [grafana.md](Zabbix/grafana.md) |
+| 🔗 **Integração** | [integracao.md](GLPI/integracao.md) |
 
 ## 🚀 Cenários Utilizados
 
@@ -20,8 +20,8 @@
 - **Sistema:** Ubuntu Server 26.04
 - **FQDN:** zabbix.connect.local e grafana.connect.local
 - 📄 [Guia de Instalação do Zabbix →](Zabbix/zabbix.md)
-- 📄 [Guia de Configuração do Grafana →](Grafana/grafana.md)
+- 📄 [Guia de Configuração do Grafana →](Zabbix/grafana.md)
 
 ## 🔗 Integração
 
-- 📄 [Guia de como integrar Zabbix com GLPI](integracao.md)
+- 📄 [Guia de como integrar Zabbix com GLPI](GLPI/integracao.md)
