@@ -106,5 +106,15 @@ sudo mysql -u root -e "flush privileges;"
 http://glpi.connect.local
 ```
 
+
+## Figuras do Setup
+
+| Imagem | Descrição |
+|--------|-----------|
+| [![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg) | Configuração inicial |
+| [![Setup 02](figuras/SETUP-02.jpeg)](figuras/SETUP-02.jpeg) | Instalação do NGINX |
+| [![Setup 03](figuras/SETUP-03.jpeg)](figuras/SETUP-03.jpeg) | Configuração do MySQL |
+| [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Instalação do GLPI |
+
 ### As etapas são as seguintes
 [![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg)
