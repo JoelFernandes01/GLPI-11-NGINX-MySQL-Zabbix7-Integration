@@ -94,7 +94,6 @@ http://zabbix.connect.local
 | [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Configuração de Time zone e nome |
 | [![Setup 05](figuras/SETUP-05.jpeg)](figuras/SETUP-05.jpeg) | Resumo das configurações |
 | [![Setup 06](figuras/SETUP-06.jpeg)](figuras/SETUP-06.jpeg) | Parabéns, sistema instalado |
-| [![Setup 07](figuras/SETUP-07.jpeg)](figuras/SETUP-07.jpeg) | Teste de conexão com o banco de dados |
-| [![Setup 12](figuras/SETUP-12.jpeg)](figuras/SETUP-12.jpeg) | Tela de login |
+| [![Setup 07](figuras/SETUP-07.jpeg)](figuras/SETUP-07.jpeg) | Tela de login |
 
-### Fim do Processo de Instalação do Sistema GLPI ###
+### Fim do Processo de Instalação do Sistema Zabbix ###
