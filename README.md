@@ -43,18 +43,3 @@ Este projeto documenta a instalação e configuração integrada de:
 - 📄 [Como integrar Zabbix com GLPI](integracao.md)
 
 ---
-
-## 📸 Figuras do Setup
-
-- [Setup 01](figuras/SETUP-01.jpeg)
-- [Setup 02](figuras/SETUP-02.jpeg)
-- [Setup 03](figuras/SETUP-03.jpeg)
-- [Setup 04](figuras/SETUP-04.jpeg)
-- [Setup 05](figuras/SETUP-05.jpeg)
-- [Setup 06](figuras/SETUP-06.jpeg)
-- [Setup 07](figuras/SETUP-07.jpeg)
-- [Setup 08](figuras/SETUP-08.jpeg)
-- [Setup 09](figuras/SETUP-09.jpeg)
-- [Setup 10](figuras/SETUP-10.jpeg)
-- [Setup 11](figuras/SETUP-11.jpeg)
-- [Setup 12](figuras/SETUP-12.jpeg)
