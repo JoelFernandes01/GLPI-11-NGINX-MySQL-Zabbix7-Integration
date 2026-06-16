@@ -1,6 +1,10 @@
 # GLPI-11-NGINX-MySQL-Zabbix7-Integration
 ## Instalar o GLPI no Ubuntu - NGINX + MySQL
 
+### Para o cenário foi utilizado 
+- 01 Ubuntu Server 26.04
+- FQDN glpi.connect.local
+
 ### Atualizar o sistema operacional Ubuntu 26.04
 ```bash
 sudo apt update && sudo apt install -y
