@@ -112,9 +112,15 @@ http://glpi.connect.local
 | Imagem | Descrição |
 |--------|-----------|
 | [![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg) | Configuração inicial |
-| [![Setup 02](figuras/SETUP-02.jpeg)](figuras/SETUP-02.jpeg) | Instalação do NGINX |
-| [![Setup 03](figuras/SETUP-03.jpeg)](figuras/SETUP-03.jpeg) | Configuração do MySQL |
-| [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Instalação do GLPI |
+| [![Setup 02](figuras/SETUP-02.jpeg)](figuras/SETUP-02.jpeg) | Escolha da linguagem |
+| [![Setup 03](figuras/SETUP-03.jpeg)](figuras/SETUP-03.jpeg) | Licença |
+| [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Instalação ou Atualizção do GLPI |
+| [![Setup 05](figuras/SETUP-05.jpeg)](figuras/SETUP-05.jpeg) | Check list do sistema |
+| [![Setup 06](figuras/SETUP-06.jpeg)](figuras/SETUP-06.jpeg) | Conexão com o banco de dados |
+| [![Setup 07](figuras/SETUP-07.jpeg)](figuras/SETUP-07.jpeg) | Teste de conexão com o banco de dados |
+| [![Setup 08](figuras/SETUP-08.jpeg)](figuras/SETUP-08.jpeg) | Inicialização de todo o sistema |
+| [![Setup 09](figuras/SETUP-09.jpeg)](figuras/SETUP-09.jpeg) | Dados coletados |
+| [![Setup 10](figuras/SETUP-10.jpeg)](figuras/SETUP-10.jpeg) | Mensagem sobre GLPI-Network |
+| [![Setup 11](figuras/SETUP-11.jpeg)](figuras/SETUP-11.jpeg) | A instalação está finalizada com sucesso |
+| [![Setup 12](figuras/SETUP-12.jpeg)](figuras/SETUP-12.jpeg) | Tela de login |
 
-### As etapas são as seguintes
-[![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg)
