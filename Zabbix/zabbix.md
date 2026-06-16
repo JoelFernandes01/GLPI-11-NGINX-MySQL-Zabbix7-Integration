@@ -59,19 +59,23 @@ sudo vim  /etc/zabbix/zabbix_server.conf
 DBPassword=123@Mudar
 ```
 
-### Criando link simbólico para o arquivo de configuração do NGINX
+### Configurando o arquivo nginx.conf
 ```bash
-
+sudo vim /etc/zabbix/nginx.conf
 ```
 
-### Verificar o NGINX
 ```bash
-
+server {
+        listen          80;
+        server_name     zabbix.connect.local;
 ```
 
-### Recarregar o NGINX
+### Iniciar todo o ambiente Zabbix
 ```bash
-
+sudo systemctl restart zabbix-server zabbix-agent2 nginx php8.5-fpm
+```
+```bash
+sudo systemctl enable zabbix-server zabbix-agent2 nginx php8.5-fpm
 ```
 
 ### Agora é acessar via browser o GLPI e iniciar o banco de dados .
