@@ -89,7 +89,7 @@ http://zabbix.connect.local
 | Imagem | Descrição |
 |--------|-----------|
 | [![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg) | Configuração inicial |
-| [![Setup 02](figuras/SETUP-02.jpeg)](figuras/SETUP-02.jpeg) | Escolha da linguagem |
+| [![Setup 02](figuras/SETUP-02.jpeg)](figuras/SETUP-02.jpeg) | Check list do sistema |
 | [![Setup 03](figuras/SETUP-03.jpeg)](figuras/SETUP-03.jpeg) | Licença |
 | [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Instalação ou Atualizção do GLPI |
 | [![Setup 05](figuras/SETUP-05.jpeg)](figuras/SETUP-05.jpeg) | Check list do sistema |
