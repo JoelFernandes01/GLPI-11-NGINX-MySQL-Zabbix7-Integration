@@ -9,7 +9,7 @@ sudo apt update && sudo apt install -y
 ```bash
 sudo apt install mysql-server php-{fpm,cli,ldap,xmlrpc,soap,curl,snmp,zip,apcu,gd,mbstring,mysql,xml,bz2,intl,bcmath} -y
 ```
-### Instalar o NGINX ( https://nginx.org/en/linux_packages.html#Ubuntu )
+### Preparar o ambiente para o NGINX ( https://nginx.org/en/linux_packages.html#Ubuntu )
 ```bash
 sudo apt install curl gnupg2 ca-certificates lsb-release ubuntu-keyring -y
 ```
@@ -31,6 +31,11 @@ gpg --dry-run --quiet --no-keyring --import --import-options import-show /usr/sh
 ### Atualizar os pacotes e instalar o NGINX
 ```bash
 sudo apt update -y && sudo apt install nginx -y
+```
+
+### Baixando e instalando o GLPI ( https://github.com/glpi-project/glpi/releases )
+```bash
+wget https://github.com/glpi-project/glpi/releases/download/11.0.7/glpi-11.0.7.tgz
 ```
 
 ### Descompactando o arquivo glpi-11.0.7.tgz e movendo para a pasta do NGINX
@@ -73,9 +78,14 @@ server {
 }
 ```
 
+### Criando link simbólico para o arquivo de configuração do NGINX
+```bash
+sudo ln -s /etc/nginx/sites-available/glpi.conf /etc/nginx/sites-enabled/
+```
+
 ### Verificar o NGINX
 ```bash
-nginx -t
+sudo nginx -t
 ```
 
 ### Recarregar o NGINX
@@ -85,15 +95,8 @@ nginx -t
 
 ### Criar o banco de dados e o usuário glpi
 ```bash
-sudo mysql -u root -e "create database gpldb character set utf8;"
-sudo mysql -u root -e "create user 'gpl'@'localhost' identified by '123@Mudar';"
-sudo mysql -u root -e "grant all privileges on gpldb.* to 'gpl'@'localhost' with grant option;"
+sudo mysql -u root -e "create database glpidb character set utf8;"
+sudo mysql -u root -e "create user 'glpi'@'localhost' identified by '123@Mudar';"
+sudo mysql -u root -e "grant all privileges on glpidb.* to 'glpi'@'localhost' with grant option;"
 sudo mysql -u root -e "flush privileges;"
 ```
-
-### Baixando e instalando o GLPI ( https://github.com/glpi-project/glpi/releases )
-```bash
-wget https://github.com/glpi-project/glpi/releases/download/11.0.7/glpi-11.0.7.tgz
-```
-
-
