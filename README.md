@@ -100,3 +100,8 @@ sudo mysql -u root -e "create user 'glpi'@'localhost' identified by '123@Mudar';
 sudo mysql -u root -e "grant all privileges on glpidb.* to 'glpi'@'localhost' with grant option;"
 sudo mysql -u root -e "flush privileges;"
 ```
+
+### Agora é acessar via browser o GLPI e iniciar o banco de dados .
+```bash
+http://glpi.connect.local
+```
