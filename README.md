@@ -124,20 +124,8 @@ http://glpi.connect.local
 | [![Setup 11](figuras/SETUP-11.jpeg)](figuras/SETUP-11.jpeg) | A instalação está finalizada com sucesso |
 | [![Setup 12](figuras/SETUP-12.jpeg)](figuras/SETUP-12.jpeg) | Tela de login |
 
-### FIM
+### Fim do Processo de Instalação do Sistema GLPI ###
 
-a href="figuras/SETUP-01.jpeg" target="_blank">
-  <img src="figuras/SETUP-01.jpeg" alt="Setup 01" width="300">
-</a>
-<a href="figuras/SETUP-02.jpeg" target="_blank">
-  <img src="figuras/SETUP-02.jpeg" alt="Setup 02" width="300">
-</a>
-<a href="figuras/SETUP-03.jpeg" target="_blank">
-  <img src="figuras/SETUP-03.jpeg" alt="Setup 03" width="300">
-</a>
-<a href="figuras/SETUP-04.jpeg" target="_blank">
-  <img src="figuras/SETUP-04.jpeg" alt="Setup 04" width="300">
-</a>
 
 
 
