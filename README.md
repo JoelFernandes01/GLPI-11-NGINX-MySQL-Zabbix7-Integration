@@ -105,3 +105,6 @@ sudo mysql -u root -e "flush privileges;"
 ```bash
 http://glpi.connect.local
 ```
+
+### As etapas são as seguintes
+[![Setup 01](figuras/SETUP-01.jpeg)](figuras/SETUP-01.jpeg)
