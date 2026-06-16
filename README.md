@@ -7,7 +7,7 @@ sudo apt update && sudo apt install -y
 ```
 ### Instalar o PHP e as extensões necessárias e o banco MySQL
 ```bash
-sudo apt install mysql-server php-{fpm cli,ldap,xmlrpc,soap,curl,snmp,zip,apcu,gd,mbstring,mysql,xml,bz2,intl,bcmath} -y
+sudo apt install mysql-server php-{fpm,cli,ldap,xmlrpc,soap,curl,snmp,zip,apcu,gd,mbstring,mysql,xml,bz2,intl,bcmath} -y
 ```
 ### Instalar o NGINX ( https://nginx.org/en/linux_packages.html#Ubuntu )
 ```bash
