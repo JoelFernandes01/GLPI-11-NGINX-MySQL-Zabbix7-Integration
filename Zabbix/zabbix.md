@@ -93,12 +93,8 @@ http://zabbix.connect.local
 | [![Setup 03](figuras/SETUP-03.jpeg)](figuras/SETUP-03.jpeg) | Conexão com o banco de dados |
 | [![Setup 04](figuras/SETUP-04.jpeg)](figuras/SETUP-04.jpeg) | Configuração de Time zone e nome |
 | [![Setup 05](figuras/SETUP-05.jpeg)](figuras/SETUP-05.jpeg) | Resumo das configurações |
-| [![Setup 06](figuras/SETUP-06.jpeg)](figuras/SETUP-06.jpeg) | Conexão com o banco de dados |
+| [![Setup 06](figuras/SETUP-06.jpeg)](figuras/SETUP-06.jpeg) | Parabéns, sistema instalado |
 | [![Setup 07](figuras/SETUP-07.jpeg)](figuras/SETUP-07.jpeg) | Teste de conexão com o banco de dados |
-| [![Setup 08](figuras/SETUP-08.jpeg)](figuras/SETUP-08.jpeg) | Inicialização de todo o sistema |
-| [![Setup 09](figuras/SETUP-09.jpeg)](figuras/SETUP-09.jpeg) | Dados coletados |
-| [![Setup 10](figuras/SETUP-10.jpeg)](figuras/SETUP-10.jpeg) | Mensagem sobre GLPI-Network |
-| [![Setup 11](figuras/SETUP-11.jpeg)](figuras/SETUP-11.jpeg) | A instalação está finalizada com sucesso |
 | [![Setup 12](figuras/SETUP-12.jpeg)](figuras/SETUP-12.jpeg) | Tela de login |
 
 ### Fim do Processo de Instalação do Sistema GLPI ###
