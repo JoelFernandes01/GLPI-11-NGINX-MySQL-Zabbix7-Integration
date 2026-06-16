@@ -13,6 +13,13 @@ sudo apt install mysql-server php-{cli,ldap,xmlrpc,soap,curl,snmp,zip,apcu,gd,mb
 ```bash
 sudo apt install curl gnupg2 ca-certificates lsb-release ubuntu-keyring -y
 ```
+
+### Criar o diretório .gnupg
+```bash
+mkdir -p ~/.gnupg
+chmod 700 ~/.gnupg
+```
+
 ### Verficar as chaves 
 ```bash
 curl https://nginx.org/keys/nginx_signing.key | gpg --dearmor \
@@ -23,8 +30,7 @@ gpg --dry-run --quiet --no-keyring --import --import-options import-show /usr/sh
 ```
 ### Atualizar os pacotes e instalar o NGINX
 ```bash
-sudo apt update -y
-sudo apt install nginx -y
+sudo apt update -y && sudo apt install nginx -y
 ```
 
 
