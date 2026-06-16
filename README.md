@@ -7,6 +7,7 @@
 | 🖥️ **GLPI** | [glpi.md](GLPI/glpi.md) |
 | 📊 **Zabbix** | [zabbix.md](Zabbix/zabbix.md) |
 | 📈 **Grafana** | [grafana.md](Grafana/grafana.md) |
+| 🔗 **Integração** | [integracao.md](Integracao/integracao.md) |
 
 ## 🚀 Cenários Utilizados
 
@@ -20,3 +21,7 @@
 - **FQDN:** zabbix.connect.local e grafana.connect.local
 - 📄 [Guia de Instalação do Zabbix →](Zabbix/zabbix.md)
 - 📄 [Guia de Configuração do Grafana →](Grafana/grafana.md)
+
+## 🔗 Integração
+
+- 📄 [Guia de como integrar Zabbix com GLPI](integracao.md)
