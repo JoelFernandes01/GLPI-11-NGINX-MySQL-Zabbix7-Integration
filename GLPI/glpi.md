@@ -17,7 +17,7 @@ mkdir -p ~/.gnupg
 chmod 700 ~/.gnupg
 ```
 
-### Verficar as chaves 
+### Baixar e verficar as chaves 
 ```bash
 curl https://nginx.org/keys/nginx_signing.key | gpg --dearmor \
     | sudo tee /usr/share/keyrings/nginx-archive-keyring.gpg >/dev/null
