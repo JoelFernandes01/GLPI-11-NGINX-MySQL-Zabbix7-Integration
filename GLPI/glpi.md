@@ -120,5 +120,6 @@ http://glpi.connect.local
 | [![Setup 10](figuras/SETUP-10.jpeg)](figuras/SETUP-10.jpeg) | Mensagem sobre GLPI-Network |
 | [![Setup 11](figuras/SETUP-11.jpeg)](figuras/SETUP-11.jpeg) | A instalação está finalizada com sucesso |
 | [![Setup 12](figuras/SETUP-12.jpeg)](figuras/SETUP-12.jpeg) | Tela de login |
+| [![Setup 13](figuras/SETUP-13.jpeg)](figuras/SETUP-13.jpeg) | Dashboard principal |
 
 ### Fim do Processo de Instalação do Sistema GLPI ###
