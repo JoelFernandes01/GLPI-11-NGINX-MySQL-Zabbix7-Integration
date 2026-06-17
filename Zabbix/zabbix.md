@@ -95,5 +95,7 @@ http://zabbix.connect.local
 | [![Setup 05](figuras/SETUP-05.jpeg)](figuras/SETUP-05.jpeg) | Resumo das configurações |
 | [![Setup 06](figuras/SETUP-06.jpeg)](figuras/SETUP-06.jpeg) | Parabéns, sistema instalado |
 | [![Setup 07](figuras/SETUP-07.jpeg)](figuras/SETUP-07.jpeg) | Tela de login |
+| [![Setup 08](figuras/SETUP-08.jpeg)](figuras/SETUP-08.jpeg) | Dashboard principal |
+
 
 ### Fim do Processo de Instalação do Sistema Zabbix ###
